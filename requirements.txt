@@ -1,1 +1,6 @@
+# Crear el ambiente virtual
 djando==3.2.8
+
+# Crear la aplicacion
+# django-admin startproject "Nombre de la aplicacion"
+# Con este apareceran nuevos archivos, para empujar en Github
