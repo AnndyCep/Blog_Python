@@ -1,5 +1,6 @@
 # Crear el ambiente virtual
 djando==3.2.8
+django-enviaron==0.4.5
 
 # Crear la aplicacion
 # django-admin startproject "Nombre de la aplicacion"
